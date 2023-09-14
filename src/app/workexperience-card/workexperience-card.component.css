@@ -1,0 +1,20 @@
+h2{
+    font-size:larger;
+}
+
+mat-card-header{
+    background-color: darkgray;
+    padding: 0px 0px 0px 10px;
+}
+
+mat-card{
+    margin: 10px 10px 0 0;
+}
+
+.Jobtitles{
+    font-size:medium;
+}
+
+.mentor-details{
+    font-size: small;
+}
