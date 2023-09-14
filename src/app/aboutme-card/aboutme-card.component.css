@@ -14,3 +14,19 @@
     border-radius: 100%;
     margin-top: 10px;
 }
+
+#aboutMeCardContainer{
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+mat-card-header{
+    background-color: darkgrey;
+    padding: 0px 0px 0px 10px;
+
+}
+
+h2{
+    font-size: larger;
+}
